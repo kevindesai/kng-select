@@ -31,7 +31,7 @@ export declare class NgSelectComponent implements OnInit, OnDestroy, OnChanges, 
     appendTo: any;
     typeahead: Subject<string>;
     multiple: boolean;
-    addTag: boolean | ((term) => NgOption);
+    addTag: boolean | ((term:any) => NgOption);
     searchable: boolean;
     blurEvent: EventEmitter<{}>;
     focusEvent: EventEmitter<{}>;

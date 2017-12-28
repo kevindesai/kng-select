@@ -1,0 +1,32 @@
+{
+  "name": "kng24-select",
+  "version": "1.0.0",
+  "description": "Angular2, Angular 4 Select2 ui wrapper for select2, multiselect, autocomplete with ng model and custom key value",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindesai/kng-select.git"
+  },
+  "keywords": [
+    "angular2",
+    "angular4",
+    "angular",
+    "select2",
+    "angular2",
+    "select2",
+    "angular4",
+    "select2",
+    "angular",
+    "autocomplete",
+    "autocomplete"
+  ],
+  "author": "Kevin Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindesai/kng-select/issues"
+  },
+  "homepage": "https://github.com/kevindesai/kng-select#readme"
+}
